@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "brickery:blocks/block_light_gray_terra_brick"
+   }
+}
